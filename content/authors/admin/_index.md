@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Noam Levi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Noam
+last_name: Levi
 
 # Status emoji
 status:
@@ -17,34 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: AI4Science Postdoctoral Fellow at EPFL
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Swiss Federal Institute of Technology Lausanne (EPFL) 
+    url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the intersection of theoretical physics and machine learning. Namely, applying tools from high energy and statistical physics to study machine learning algorithms as well as applying ML to advance the physical sciences.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theoretical Physics for ML
+  - ML for Physics
+  - Statistical Learning Theory
+  - Optimization and Dynamics
+  - Representation Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Theoretical Particle Physics
+      institution: Tel Aviv University
+      year: 2023
+    - course: MSC in Theoretical Particle Physicse
+      institution: Tel Aviv University
+      year: 2017
+    - course: BSc in Physics
+      institution: Tel Aviv University
+      year: 2015
+    - course: BSc in Electrical Engineering
+      institution: Tel Aviv University
+      year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,25 +71,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
