@@ -2,13 +2,6 @@
 # Display name
 title: Noam Levi
 
-# Name pronunciation (optional)
-name_pronunciation: Noam Levi
-
-# Full name (for SEO)
-first_name: Noam
-last_name: Levi
-
 # Status emoji
 status:
   icon: ☕️
