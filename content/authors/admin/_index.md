@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Noam Levi
 
 # Name pronunciation (optional)
 name_pronunciation: Noam Levi
@@ -107,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Noam Levi is an AI4Science postdoctoral fellow at EPFL. His research focuses on the intersection of theoretical physics and machine learning. Namely, applying tools from high energy and statistical physics to study machine learning algorithms as well as applying ML to advance the physical sciences.
 {style="text-align: justify;"}
